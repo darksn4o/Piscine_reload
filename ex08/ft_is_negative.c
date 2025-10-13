@@ -17,3 +17,10 @@ void ft_is_negative(int n)
 	else
 		ft_putchar(neg);
 }
+/* 
+int main()
+{
+	ft_is_negative();
+	return(0);
+}
+ */
