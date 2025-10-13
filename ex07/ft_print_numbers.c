@@ -16,3 +16,10 @@ void ft_print_numbers(void)
 		numb++;
 	}
 }
+/* 
+int main()
+{
+	ft_print_numbers();
+	return(0);
+}
+*/
